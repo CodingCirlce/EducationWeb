@@ -311,7 +311,7 @@ a.menu-link { display: none; }
 
 .video-overlay {
     position: absolute;
-    background-color: rgb(24, 24, 24);
+    background-color: black;
     top: 0;
     left: 0;
     bottom: 7px;
